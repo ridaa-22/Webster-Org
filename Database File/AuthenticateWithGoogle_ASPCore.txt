@@ -1,0 +1,39 @@
+Auth with google in ASP.NET Core
+================================
+Step 1 is to generate your OAuth Credentials
+
+Step 2. in your app settings file
+"GoogleKeys": {
+   "ClientId": "843923501936-lm1ugm0ne574v0efltdr18ap596n5qkq.apps.googleusercontent.com",
+   "ClientSecret": "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"
+ },
+
+
+Step 3 
+Download a package named "Google Authentication"
+
+Step 4 
+Modify your program.cs
+add google as service with your keys from app settings
+
+builder.Services.AddAuthentication()
+    .AddGoogle(options =>
+    {
+        options.ClientId = builder.Configuration["GoogleKeys:ClientId"];
+        options.ClientSecret = builder.Configuration["GoogleKeys:ClientSecret"];
+    });
+
+
+====================
+Now to add multi auth
+Add this after DefaultIdentity
+
+AddRoles<IdentityRole>()
+
+Step 5
+Add By Default Role In Your register.cshtml.cs
+await _userManager.AddToRoleAsync(user, "User");
+
+google register per agar by default role na set hone lage to ExternalLogin.cshtml.cs ki file per jaao
+wahan se role by default add kardo
+
