@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\views\\shared\\managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:views\\shared\\managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T07:39:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "managerlayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\managerlayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\managerlayout.cshtml",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\managerlayout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\managerlayout.cshtml*",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAAAF4CAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T07:34:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFIHAAAAAAAAAAAuwGEHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T07:29:51.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
