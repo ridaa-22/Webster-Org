@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:views\\shared\\managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|c:\\users\\l380\\desktop\\webster-org\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11094E50-D413-4829-9AC8-C4E7B6668BDF}|Website.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +34,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T16:36:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-19T08:58:05.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Website.csproj",
+              "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Website.csproj",
+              "RelativeDocumentMoniker": "Website.csproj",
+              "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Website.csproj",
+              "RelativeToolTip": "Website.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T08:51:23.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -44,23 +94,22 @@
               "RelativeDocumentMoniker": "Views\\Shared\\managerlayout.cshtml",
               "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\managerlayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\managerlayout.cshtml",
-              "ViewState": "AgIAAFcCAAAAAAAAAAAAAGECAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwKQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-19T07:34:15.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\L380\\Desktop\\Webster-Org\\Website\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFIHAAAAAAAAAAAuwGEHAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-19T07:29:51.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T07:29:51.128Z"
             }
           ]
         }
