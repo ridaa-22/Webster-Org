@@ -7,7 +7,7 @@ var connectionString = builder.Configuration.GetConnectionString("WebsiteContext
 
 builder.Services.AddDbContext<WebsiteContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddDefaultIdentity<WebsiteUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<WebsiteContext>();
+builder.Services.AddDefaultIdentity<WebsiteUser>(options => options.SignIn.RequireConfirmedAccount = false).AddRoles<IdentityRole>().AddEntityFrameworkStores<WebsiteContext>();
 builder.Services.AddRazorPages();
 
 // Add services to the container.
@@ -32,7 +32,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Home}/{action=landingpage}/{id?}")
     .WithStaticAssets();
 
 app.MapRazorPages();

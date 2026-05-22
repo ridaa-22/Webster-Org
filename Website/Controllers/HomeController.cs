@@ -1,4 +1,6 @@
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Website.Models;
 
@@ -13,7 +15,21 @@ namespace Website.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+       
+        public IActionResult landingpage()
+        {
+            return View();
+        }
+        //hr dashboard
+        [Authorize(Roles = "HR")]
+        public IActionResult Hrdashboard()
+        {
+            return View();
+        }
+
+        //manager dashboard
+        [Authorize(Roles = "Manager")]
+        public IActionResult managerdash()
         {
             return View();
         }
