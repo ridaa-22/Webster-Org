@@ -10,6 +10,9 @@ wwwroot\assets\images\backgrounds\sidebar-buynow.png
 wwwroot\assets\images\logos\favicon.png
 wwwroot\assets\images\logos\logo-wrappixel.svg
 wwwroot\assets\images\logos\logo.svg
+wwwroot\assets\images\logos\WO crop.png
+wwwroot\assets\images\logos\WO.png
+wwwroot\assets\images\logos\WO2.png
 wwwroot\assets\images\products\s1.jpg
 wwwroot\assets\images\products\s2.jpg
 wwwroot\assets\images\products\s3.jpg
@@ -667,6 +670,7 @@ wwwroot\manager\assets\img\kaiadmin\logo_dark.svg
 wwwroot\manager\assets\img\kaiadmin\logo_documentation.png
 wwwroot\manager\assets\img\kaiadmin\logo_light.png
 wwwroot\manager\assets\img\kaiadmin\logo_light.svg
+wwwroot\manager\assets\img\kaiadmin\WO.png
 wwwroot\manager\assets\img\logoproduct.svg
 wwwroot\manager\assets\img\logoproduct2.svg
 wwwroot\manager\assets\img\logoproduct3.svg
@@ -688,6 +692,8 @@ wwwroot\manager\assets\img\undraw\undraw_Taken_if77.svg
 wwwroot\manager\assets\img\undraw\undraw_update_uxn2.svg
 wwwroot\manager\assets\img\undraw\undraw_upgrade_06a0.svg
 wwwroot\manager\assets\img\visa.svg
+wwwroot\manager\assets\img\WO crop.png
+wwwroot\manager\assets\img\WO2.png
 wwwroot\manager\assets\js\core\bootstrap.min.js
 wwwroot\manager\assets\js\core\jquery-3.7.1.min.js
 wwwroot\manager\assets\js\core\popper.min.js
@@ -723,377 +729,377 @@ wwwroot\manager\assets\js\plugin\sweetalert\sweetalert.min.js
 wwwroot\manager\assets\js\plugin\webfont\webfont.min.js
 wwwroot\manager\assets\js\setting-demo.js
 wwwroot\manager\assets\js\setting-demo2.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\css\icons\tabler-icons\fonts\tabler-icons.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\css\icons\tabler-icons\tabler-icons.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\css\styles.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\css\styles.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\images\logos\logo-wrappixel.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\images\logos\logo.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\js\app.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\js\dashboard.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\js\sidebarmenu.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.amd.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.common.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.esm.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ar.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\be-cyrl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\be-latn.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ca.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\cs.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\da.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\de.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\el.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\en.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\es.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\et.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\fa.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\fi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\fr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\he.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\hi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\hr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\hu.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\hy.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\id.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\it.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ja.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ka.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ko.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\lt.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\lv.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ms.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\nb.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\nl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\pl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\pt-br.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\pt.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\rs.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ru.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\se.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\sk.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\sl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\sq.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\th.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\tr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\ua.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\vi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\zh-cn.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\dist\locales\zh-tw.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\package.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\README.md
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\apexcharts.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\apexcharts.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-camera.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-home.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-menu.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-minus-square.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-minus.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-pan-hand.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-pan.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-plus-square.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-plus.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-refresh.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-reset.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-select.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-select1.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom-in.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom-out.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Bar.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\BarStacked.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\BoxCandleStick.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\common\bar\DataLabels.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\common\bar\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\common\circle\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\common\line\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\common\treemap\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\HeatMap.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Line.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Pie.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Radar.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Radial.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\RangeBar.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Scatter.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\charts\Treemap.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\libs\monotone-cubic.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\libs\Treemap-squared.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ar.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\be-cyrl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\be-latn.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ca.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\cs.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\da.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\de.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\el.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\en.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\es.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\et.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\fa.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\fi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\fr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\he.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\hi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\hr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\hu.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\hy.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\id.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\it.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ja.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ka.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ko.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\lt.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\lv.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ms.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\nb.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\nl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\pl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\pt-br.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\pt.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\rs.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ru.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\se.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\sk.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\sl.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\sq.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\th.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\tr.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\ua.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\vi.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\zh-cn.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\locales\zh-tw.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Animations.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\Annotations.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\PointsAnnotations.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\XAxisAnnotations.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\YAxisAnnotations.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\Axes.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\AxesUtils.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\Grid.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\XAxis.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\YAxis.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Base.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Core.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\CoreUtils.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Crosshairs.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Data.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\DataLabels.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Dimensions.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Grid.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\XAxis.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\YAxis.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Events.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Exports.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Fill.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Filters.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Formatters.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Graphics.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\Destroy.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\InitCtxVariables.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\Localization.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\UpdateHelpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\legend\Helpers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\legend\Legend.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Markers.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Range.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Responsive.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Scales.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Series.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Config.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Defaults.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Globals.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Options.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Theme.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\TimeScale.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\TitleSubtitle.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\Toolbar.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\AxesTooltip.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Intersect.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Labels.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Marker.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Position.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\README.md
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Tooltip.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Utils.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\modules\ZoomPanSelection.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\svgjs\svg.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\utils\DateTime.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\utils\Resize.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\apexcharts\src\utils\Utils.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\alert.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\alert.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\base-component.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\base-component.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\button.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\button.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\carousel.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\carousel.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\collapse.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\collapse.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\data.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\data.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\event-handler.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\event-handler.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\manipulator.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\manipulator.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\selector-engine.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\selector-engine.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dropdown.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\dropdown.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\modal.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\modal.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\offcanvas.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\offcanvas.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\popover.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\popover.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\scrollspy.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\scrollspy.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\tab.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\tab.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\toast.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\toast.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\tooltip.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\tooltip.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\backdrop.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\backdrop.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\component-functions.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\component-functions.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\config.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\config.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\focustrap.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\focustrap.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\index.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\index.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\sanitizer.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\sanitizer.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\scrollbar.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\scrollbar.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\swipe.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\swipe.js.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\dist\util\template-factory.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\index.esm.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\js\index.umd.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\package.json
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\assets\libs\bootstrap\README.md
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\setting-demo2.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\setting-demo.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\webfont\webfont.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\sweetalert\sweetalert.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\summernote\summernote-lite.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\sticky-sidebar\sticky-sidebar.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\sortable\sortable.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\select2\select2.full.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\owl-carousel\owl.carousel.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\moment\moment.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\list.js\list.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jsvectormap\world.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jsvectormap\jsvectormap.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jquery.validate\jquery.validate.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jquery.sparkline\jquery.sparkline.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jquery.magnific-popup\jquery.magnific-popup.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\jquery-scrollbar\jquery.scrollbar.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\gmaps\gmaps.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\fullcalendar\fullcalendar.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\dropzone\dropzone.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\datepicker\bootstrap-datetimepicker.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\datatables\datatables.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\chart.js\chart.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\chart-circle\circles.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\bootstrap-toggle\bootstrap-toggle.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\bootstrap-tagsinput\bootstrap-tagsinput.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\plugin\bootstrap-notify\bootstrap-notify.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\kaiadmin.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\kaiadmin.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\demo.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\core\popper.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\core\jquery-3.7.1.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\js\core\bootstrap.min.js
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\visa.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_upgrade_06a0.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_update_uxn2.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_Taken_if77.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_tabs_jf82.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_sign_in_e6hj.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_page_not_found_su7k.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_no_data_qbuo.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_not_found_60pq.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_Hello_qnas.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_empty_xct9.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_creative_team_r90h.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\undraw\undraw_blank_canvas_3rbb.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\logoproduct3.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\logoproduct2.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\logoproduct.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\kaiadmin\logo_light.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\kaiadmin\logo_dark.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\kaiadmin\icon.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\kaiadmin\favicon.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\kaiadmin\favicon.ico
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\flags\readme.txt
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\examples\logoinvoice.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\examples\logo2.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\examples\logo1.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\img\examples\logo.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\fonts\fontawesome\fa-solid-900.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\fonts\fontawesome\fa-regular-400.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\fonts\fontawesome\fa-brands-400.svg
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\plugins.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\plugins.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\plugins.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\kaiadmin.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\kaiadmin.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\kaiadmin.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\fonts.min.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\fonts.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\demo.css.map
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\demo.css
-C:\Users\L380\Desktop\Webster-Org\Website\wwwroot\manager\assets\css\bootstrap.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\fonts\fontawesome\fa-solid-900.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\fonts\fontawesome\fa-regular-400.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\fonts\fontawesome\fa-brands-400.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\plugins.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\plugins.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\plugins.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\kaiadmin.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\kaiadmin.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\kaiadmin.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\fonts.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\fonts.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\demo.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\demo.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\css\bootstrap.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\README.md
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\package.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\index.umd.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\index.esm.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\template-factory.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\swipe.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\swipe.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\scrollbar.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\scrollbar.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\sanitizer.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\sanitizer.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\index.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\index.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\focustrap.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\focustrap.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\config.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\config.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\component-functions.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\component-functions.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\backdrop.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\util\backdrop.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\tooltip.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\tooltip.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\toast.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\toast.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\tab.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\tab.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\scrollspy.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\scrollspy.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\popover.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\popover.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\offcanvas.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\offcanvas.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\modal.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\modal.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dropdown.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dropdown.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\selector-engine.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\selector-engine.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\manipulator.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\manipulator.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\event-handler.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\event-handler.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\data.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\dom\data.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\collapse.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\collapse.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\carousel.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\carousel.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\button.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\button.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\base-component.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\base-component.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\alert.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\js\dist\alert.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\utils\Utils.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\utils\Resize.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\utils\DateTime.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\svgjs\svg.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\ZoomPanSelection.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Utils.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Tooltip.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\README.md
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Position.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Marker.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Labels.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\Intersect.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\tooltip\AxesTooltip.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Toolbar.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\TitleSubtitle.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\TimeScale.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Theme.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Options.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Globals.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Defaults.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\settings\Config.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Series.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Scales.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Responsive.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Range.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Markers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\legend\Legend.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\legend\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\UpdateHelpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\Localization.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\InitCtxVariables.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\helpers\Destroy.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Graphics.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Formatters.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Filters.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Fill.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Exports.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Events.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\YAxis.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\XAxis.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Grid.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\dimensions\Dimensions.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\DataLabels.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Data.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Crosshairs.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\CoreUtils.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Core.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Base.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\YAxis.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\XAxis.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\Grid.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\AxesUtils.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\axes\Axes.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\YAxisAnnotations.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\XAxisAnnotations.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\PointsAnnotations.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\annotations\Annotations.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\modules\Animations.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\zh-tw.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\zh-cn.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\vi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ua.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\tr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\th.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\sq.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\sl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\sk.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\se.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ru.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\rs.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\pt.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\pt-br.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\pl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\nl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\nb.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ms.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\lv.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\lt.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ko.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ka.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ja.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\it.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\id.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\hy.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\hu.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\hr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\hi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\he.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\fr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\fi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\fa.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\et.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\es.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\en.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\el.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\de.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\da.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\cs.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ca.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\be-latn.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\be-cyrl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\locales\ar.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\libs\Treemap-squared.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\libs\monotone-cubic.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Treemap.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Scatter.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\RangeBar.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Radial.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Radar.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Pie.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Line.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\HeatMap.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\common\treemap\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\common\line\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\common\circle\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\common\bar\Helpers.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\common\bar\DataLabels.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\BoxCandleStick.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\BarStacked.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\charts\Bar.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom-out.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-zoom-in.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-select1.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-select.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-reset.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-refresh.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-plus.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-plus-square.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-pan.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-pan-hand.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-minus.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-minus-square.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-menu.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-home.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\ico-camera.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\assets\apexcharts.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\src\apexcharts.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\README.md
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\package.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\zh-tw.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\zh-cn.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\vi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ua.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\tr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\th.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\sq.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\sl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\sk.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\se.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ru.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\rs.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\pt.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\pt-br.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\pl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\nl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\nb.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ms.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\lv.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\lt.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ko.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ka.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ja.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\it.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\id.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\hy.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\hu.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\hr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\hi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\he.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\fr.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\fi.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\fa.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\et.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\es.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\en.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\el.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\de.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\da.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\cs.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ca.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\be-latn.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\be-cyrl.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\locales\ar.json
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\css\icons\tabler-icons\fonts\tabler-icons.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\css\icons\tabler-icons\tabler-icons.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\css\styles.min.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\css\styles.min.css.map
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\images\logos\logo-wrappixel.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\images\logos\logo.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\js\app.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\js\dashboard.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\js\sidebarmenu.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.amd.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.common.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.css
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.esm.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\assets\libs\apexcharts\dist\apexcharts.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\setting-demo2.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\setting-demo.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\webfont\webfont.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\sweetalert\sweetalert.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\summernote\summernote-lite.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\sticky-sidebar\sticky-sidebar.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\sortable\sortable.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\select2\select2.full.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\owl-carousel\owl.carousel.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\moment\moment.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\list.js\list.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jsvectormap\world.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jsvectormap\jsvectormap.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jquery.validate\jquery.validate.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jquery.sparkline\jquery.sparkline.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jquery.magnific-popup\jquery.magnific-popup.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\jquery-scrollbar\jquery.scrollbar.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\gmaps\gmaps.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\fullcalendar\fullcalendar.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\dropzone\dropzone.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\datepicker\bootstrap-datetimepicker.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\datatables\datatables.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\chart.js\chart.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\chart-circle\circles.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\bootstrap-toggle\bootstrap-toggle.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\bootstrap-tagsinput\bootstrap-tagsinput.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\plugin\bootstrap-notify\bootstrap-notify.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\kaiadmin.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\kaiadmin.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\demo.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\core\popper.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\core\jquery-3.7.1.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\js\core\bootstrap.min.js
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\visa.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_upgrade_06a0.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_update_uxn2.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_Taken_if77.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_tabs_jf82.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_sign_in_e6hj.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_page_not_found_su7k.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_no_data_qbuo.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_not_found_60pq.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_Hello_qnas.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_empty_xct9.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_creative_team_r90h.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\undraw\undraw_blank_canvas_3rbb.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\logoproduct3.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\logoproduct2.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\logoproduct.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\kaiadmin\logo_light.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\kaiadmin\logo_dark.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\kaiadmin\icon.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\kaiadmin\favicon.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\kaiadmin\favicon.ico
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\flags\readme.txt
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\examples\logoinvoice.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\examples\logo2.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\examples\logo1.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\img\examples\logo.svg
+C:\Users\lenovo\Desktop\Webster Organisation\Website\wwwroot\manager\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
