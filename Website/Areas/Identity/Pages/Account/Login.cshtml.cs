@@ -22,11 +22,13 @@ namespace Website.Areas.Identity.Pages.Account
     {
         private readonly SignInManager<WebsiteUser> _signInManager;
         private readonly ILogger<LoginModel> _logger;
+        private readonly UserManager<WebsiteUser> _userManager;
 
-        public LoginModel(SignInManager<WebsiteUser> signInManager, ILogger<LoginModel> logger)
+        public LoginModel(SignInManager<WebsiteUser> signInManager, ILogger<LoginModel> logger, UserManager<WebsiteUser> userManager)
         {
             _signInManager = signInManager;
             _logger = logger;
+            _userManager = userManager;
         }
 
         /// <summary>
@@ -116,7 +118,26 @@ namespace Website.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+
+                    var user = await _userManager.FindByEmailAsync(Input.Email);
+                    if (user != null)
+                    {
+                        var roles = await _userManager.GetRolesAsync(user);
+
+                        if (roles.Contains("Manager"))
+                        {
+                            return RedirectToAction("managerdash","Home");
+                        }
+                        else if (roles.Contains("HR"))
+                        {
+                            return RedirectToAction("Hrdashboard", "Home");
+                        }
+                        else
+                        {
+                            return RedirectToPage("/User/Dashboard");
+                        }
+                    }
+                   
                 }
                 if (result.RequiresTwoFactor)
                 {
