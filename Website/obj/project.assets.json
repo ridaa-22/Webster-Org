@@ -8625,23 +8625,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\bisma\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\bisma\\Desktop\\Webster-Org3\\Website\\Website.csproj",
       "projectName": "Website",
       "projectPath": "C:\\Users\\bisma\\Desktop\\Webster-Org3\\Website\\Website.csproj",
       "packagesPath": "C:\\Users\\bisma\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bisma\\Desktop\\Webster-Org3\\Website\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Webster Organisation\\Website\\Website.csproj",
+      "projectName": "Website",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\Webster Organisation\\Website\\Website.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\Webster Organisation\\Website\\obj\\",
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\bisma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8670,7 +8686,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "10.0.200"
+=======
+      "SdkAnalysisLevel": "10.0.100"
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
     },
     "frameworks": {
       "net9.0": {
@@ -8714,6 +8734,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
+<<<<<<< HEAD
             "version": "[9.0.15, 9.0.15]"
           },
           {
@@ -8727,6 +8748,21 @@
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[9.0.15, 9.0.15]"
+=======
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
           }
         ],
         "frameworkReferences": {
@@ -8737,7 +8773,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 26602b51da3ffc90c16eac7bf463d6bdfda7c789
       }
     }
   }
