@@ -13,13 +13,13 @@ namespace Website.Models
         [Required]
         public string Email { get; set; }
           [Required]
-        public DateTime DOB { get; set; } = DateTime.Now;
+        public DateTime? DOB { get; set; }
         [Required]
 
         public string Gender { get; set; }
         [Required]
 
-        public int PhoneNumber { get; set; }
+        public string PhoneNumber { get; set; }
         [Required]
         public string Address { get; set; }
         [Required]
@@ -31,9 +31,9 @@ namespace Website.Models
         [Required]
         public string ExperienceYear { get; set; }
         [Required]
-        public int CNIC { get; set; }
+        public string CNIC { get; set; }
         [Required]
-        public int Skills { get; set; }
+        public string Skills { get; set; }
         [Required]
         public string Status { get; set; }
         [Required]
